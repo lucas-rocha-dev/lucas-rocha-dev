@@ -6,12 +6,12 @@
   <img src="https://himitsudev.github.io/himitsu/images/futplacar1.png" alt="Futebol Placar 1" width="10%"> 
   <img src="https://himitsudev.github.io/himitsu/images/futplacar2.png" alt="Futebol Placar 2" width="10%">
   <img src="https://himitsudev.github.io/himitsu/images/futplacar3.png" alt="Futebol Placar 3" width="10%"> 
-  <img src="https://himitsudev.github.io/himitsu/images/nwboss1.webp" alt="Futebol Placar 2" width="10%">
-  <img src="https://himitsudev.github.io/himitsu/images/nwboss2.webp" alt="Futebol Placar 3" width="10%">
-  <img src="https://himitsudev.github.io/himitsu/images/nwboss3.webp" alt="Futebol Placar 3" width="10%">
-  <img src="https://himitsudev.github.io/himitsu/images/futplacar1.png" alt="Futebol Placar 1" width="10%">
-  <img src="https://himitsudev.github.io/himitsu/images/futplacar2.png" alt="Futebol Placar 2" width="10%">
-  <img src="https://himitsudev.github.io/himitsu/images/futplacar3.png" alt="Futebol Placar 3" width="10%">
+  <img src="https://himitsudev.github.io/himitsu/images/nwboss1.webp" alt="Solo Boss NW" width="10%">
+  <img src="https://himitsudev.github.io/himitsu/images/nwboss2.webp" alt="Solo Boss NW" width="10%">
+  <img src="https://himitsudev.github.io/himitsu/images/nwboss3.webp" alt="Solo Boss NW" width="10%">
+  <img src="Screenshot_20231128_212321.png" alt="Localiza CEP" width="10%">
+  <img src="Screenshot_20231128_212434.png" alt="Localiza CEP" width="10%">
+  <img src="Screenshot_20231128_212530.png" alt="Localiza CEP" width="10%">
  
 
 
