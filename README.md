@@ -8,23 +8,23 @@
 
 <div style="flex: 1; text-align: center; margin-right: 20px;">
   <a href="https://play.google.com/store/apps/details?id=com.futebolplacar" target="_blank" style="font-size: 20px;">Futebol Placar</a><br>
-  <img src="https://himitsudev.github.io/himitsu/images/futplacar1.png" alt="Futebol Placar 1" style="width: 20%; height: auto;">
-  <img src="https://himitsudev.github.io/himitsu/images/futplacar2.png" alt="Futebol Placar 1" style="width: 20%; height: auto;">
-  <img src="https://himitsudev.github.io/himitsu/images/futplacar3.png" alt="Futebol Placar 1" style="width: 20%; height: auto;">
+  <img src="https://himitsudev.github.io/himitsu/images/futplacar1.png" alt="Futebol Placar 1" style="width: 10%; height: auto;">
+  <img src="https://himitsudev.github.io/himitsu/images/futplacar2.png" alt="Futebol Placar 1" style="width: 10%; height: auto;">
+  <img src="https://himitsudev.github.io/himitsu/images/futplacar3.png" alt="Futebol Placar 1" style="width: 10%; height: auto;">
 </div>
 
 <div style="flex: 1; text-align: center; margin-right: 20px;">
   <a href="https://play.google.com/store/apps/details?id=soloboss.nwsoloboss" target="_blank" style="font-size: 20px;">Solo Boss - NW</a><br>
-  <img src="https://himitsudev.github.io/himitsu/images/nwboss1.webp" alt="Futebol Placar 1" style="width: 20%; height: auto;">
-  <img src="https://himitsudev.github.io/himitsu/images/nwboss2.webp" alt="Futebol Placar 1" style="width: 20%; height: auto;">
-  <img src="https://himitsudev.github.io/himitsu/images/nwboss3.webp" alt="Futebol Placar 1" style="width: 20%; height: auto;">
+  <img src="https://himitsudev.github.io/himitsu/images/nwboss1.webp" alt="Futebol Placar 1" style="width: 10%; height: auto;">
+  <img src="https://himitsudev.github.io/himitsu/images/nwboss2.webp" alt="Futebol Placar 1" style="width: 10%; height: auto;">
+  <img src="https://himitsudev.github.io/himitsu/images/nwboss3.webp" alt="Futebol Placar 1" style="width: 10%; height: auto;">
 </div>
 
 <div style="flex: 1; text-align: center; margin-right: 20px;">
   <a href="https://play.google.com/store/apps/details?id=com.himitsu.localizacep" target="_blank" style="font-size: 20px;">Localiza CEP</a><br>
-  <img src="https://himitsudev.github.io/himitsu/images/futplacar1.png" alt="Futebol Placar 1" style="width: 20%; height: auto;">
-  <img src="https://himitsudev.github.io/himitsu/images/futplacar1.png" alt="Futebol Placar 1" style="width: 20%; height: auto;">
-  <img src="https://himitsudev.github.io/himitsu/images/futplacar1.png" alt="Futebol Placar 1" style="width: 20%; height: auto;">
+  <img src="https://himitsudev.github.io/himitsu/images/futplacar1.png" alt="Futebol Placar 1" style="width: 10%; height: auto;">
+  <img src="https://himitsudev.github.io/himitsu/images/futplacar1.png" alt="Futebol Placar 1" style="width: 10%; height: auto;">
+  <img src="https://himitsudev.github.io/himitsu/images/futplacar1.png" alt="Futebol Placar 1" style="width: 10%; height: auto;">
 </div>
 
 </div>
