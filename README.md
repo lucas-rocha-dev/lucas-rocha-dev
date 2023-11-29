@@ -1,16 +1,8 @@
 ### Olá <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="Futebol Placar 1" width="3%"> ! Eu sou o Lucas Rodrigues 
 ## Alguns dos projetos concluídos em 2023:
-### Futebol Placar, Solo Boss NW, Localiza CEP
 <div>
-  <img src="https://himitsudev.github.io/himitsu/images/futplacar1.png" alt="Futebol Placar 1" width="10%"> 
-  <img src="https://himitsudev.github.io/himitsu/images/futplacar2.png" alt="Futebol Placar 2" width="10%">
-  <img src="https://himitsudev.github.io/himitsu/images/futplacar3.png" alt="Futebol Placar 3" width="10%"> 
-  <img src="https://himitsudev.github.io/himitsu/images/nwboss1.webp" alt="Solo Boss NW" width="10%">
-  <img src="https://himitsudev.github.io/himitsu/images/nwboss2.webp" alt="Solo Boss NW" width="10%">
-  <img src="https://himitsudev.github.io/himitsu/images/nwboss3.webp" alt="Solo Boss NW" width="10%">
-  <img src="Screenshot_20231128_212321.png" alt="Localiza CEP" width="10%">
-  <img src="Screenshot_20231128_212434.png" alt="Localiza CEP" width="10%">
-  <img src="Screenshot_20231128_212530.png" alt="Localiza CEP" width="10%">
+  <img src="projetos.png" alt="Futebol Placar 1" width="100%"> 
+
 </div>
 <a href="https://play.google.com/store/apps/developer?id=HimitsuDev" target="_blank" style="font-size: 20px;">CLIQUE AQUI PARA VER TODOS NA PLAY STORE</a> <br>
 
