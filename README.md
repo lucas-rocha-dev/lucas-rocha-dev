@@ -6,13 +6,13 @@
 ## Projetos concluídos
  <a class="links" href="https://play.google.com/store/apps/details?id=com.futebolplacar" target="_blank">Futebol Placar</a> <br>
         <td>
-<img class="expansivel" src="https://himitsudev.github.io/himitsu/images/futplacar1.png" alt="" style="width: 20%; height: auto;">
+<img class="expansivel" src="https://himitsudev.github.io/himitsu/images/futplacar1.png" alt="" style="width: 10%; height: auto;">
         </td>
         <td>
-<img class="expansivel" src="https://himitsudev.github.io/himitsu/images/futplacar2.png" alt="" style="width: 20%; height: auto;">
+<img class="expansivel" src="https://himitsudev.github.io/himitsu/images/futplacar2.png" alt="" style="width: 10%; height: auto;">
         </td>
          <td>
-<img class="expansivel" src="https://himitsudev.github.io/himitsu/images/futplacar3.png" alt="" style="width: 20%; height: auto;">
+<img class="expansivel" src="https://himitsudev.github.io/himitsu/images/futplacar3.png" alt="" style="width: 10%; height: auto;">
         </td> 
 
 
