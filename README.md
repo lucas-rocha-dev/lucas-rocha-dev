@@ -11,7 +11,7 @@
   <img src="Screenshot_20231128_212321.png" alt="Localiza CEP" width="10%">
   <img src="Screenshot_20231128_212434.png" alt="Localiza CEP" width="10%">
   <img src="Screenshot_20231128_212530.png" alt="Localiza CEP" width="10%">
- 
+</div>
 <a href="https://play.google.com/store/apps/developer?id=HimitsuDev" target="_blank" style="font-size: 20px;">CLIQUE AQUI PARA VER TODOS NA PLAY STORE</a> <br>
 
 
