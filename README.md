@@ -8,7 +8,7 @@
              <table>
             <tr>
            <td>
-               <img class="expansivel" src="https://himitsudev.github.io/himitsu/images/futplacar1.png" alt="">
+               <img class="expansivel" src="https://himitsudev.github.io/himitsu/images/futplacar1.png" alt="" style="width: 50%; height: auto;">
               </td>
             <td>
             <img class="expansivel" src="images/futplacar2.png" alt="">
