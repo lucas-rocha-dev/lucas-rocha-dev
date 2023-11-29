@@ -1,11 +1,12 @@
-### Olá! Eu sou o Lucas Rodrigues ✌️ Estou editando o perfil no momento... rs
+### Olá! Eu sou o Lucas Rodrigues ✌️ Estou editando...
 [![Portfolio](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)](https://himitsudev.github.io/himitsu) 
 [![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-rodrigues-da-rocha-98b3372a1/)
 
 
 ## Projetos concluídos 2023
 
-  <b> _______________ </b> <a href="https://play.google.com/store/apps/details?id=com.futebolplacar" target="_blank" style="font-size: 20px;">Futebol Placar</a><b>______________________________</b> <a href="https://play.google.com/store/apps/details?id=com.futebolplacar" target="_blank" style="font-size: 20px;">Solo Boss - NW </a><b> ______________________________ </b> <a href="https://play.google.com/store/apps/details?id=com.futebolplacar" target="_blank" style="font-size: 20px;">Localiza CEP</a> <br>
+  <img src="https://placekitten.com/1/1" style="width: 40%; height: 0.1;">
+ <a href="https://play.google.com/store/apps/details?id=com.futebolplacar" target="_blank" style="font-size: 20px;">Futebol Placar</a> <img src="https://placekitten.com/1/1" style="width: 40%; height: 0.1;">  <a href="https://play.google.com/store/apps/details?id=com.futebolplacar" target="_blank" style="font-size: 20px;">Solo Boss - NW </a> <img src="https://placekitten.com/1/1" style="width: 40%; height: 0.1;"> <a href="https://play.google.com/store/apps/details?id=com.futebolplacar" target="_blank" style="font-size: 20px;">Localiza CEP</a> <br>
   <img src="https://himitsudev.github.io/himitsu/images/futplacar1.png" alt="Futebol Placar 1" width="10%">
   <img src="https://himitsudev.github.io/himitsu/images/futplacar2.png" alt="Futebol Placar 2" width="10%">
   <img src="https://himitsudev.github.io/himitsu/images/futplacar3.png" alt="Futebol Placar 3" width="10%">
