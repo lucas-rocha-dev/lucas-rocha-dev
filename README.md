@@ -1,4 +1,4 @@
-### Olá! Eu sou o Lucas Rodrigues ✌️
+### Olá <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="Futebol Placar 1" width="3%"> ! Eu sou o Lucas Rodrigues 
 ## Alguns dos projetos concluídos em 2023:
 ### Futebol Placar, Solo Boss NW, Localiza CEP
 <div>
