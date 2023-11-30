@@ -1,7 +1,7 @@
 ### Olá <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="Futebol Placar 1" width="3%"> ! Eu sou o Lucas Rodrigues 
 ## Alguns dos projetos concluídos em 2023:
 <div>
-  <img src="projetos.png" alt="Futebol Placar 1" width="100%"> 
+  <img src="new_projetos.png" alt="Futebol Placar 1" width="100%"> 
 
 </div>
 <a href="https://play.google.com/store/apps/developer?id=HimitsuDev" target="_blank" style="font-size: 20px;">CLIQUE AQUI PARA VER TODOS NA PLAY STORE</a> <br>
