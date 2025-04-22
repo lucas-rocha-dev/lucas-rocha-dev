@@ -1,10 +1,12 @@
+<div>
+  <img align="right" alt="Git-Computador" width="330px" src="https://github.com/user-attachments/assets/91ac572e-6230-44b4-892d-dd7beb822d37"/>
+</div>
+
 ### Olá <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="Futebol Placar 1" width="3%"> ! Eu sou o Lucas Rocha 
 ### Desenvolvedor Back-End .NET
-<img src="https://github.com/user-attachments/assets/91ac572e-6230-44b4-892d-dd7beb822d37" width="20%" style="float: right; margin-left: 10px;">
 ## Alguns dos projetos mobile concluídos:
 <div>
   <a href="https://play.google.com/store/apps/developer?id=HimitsuDev" target="_blank"> <img src="new_projetos.png" alt="Futebol Placar 1" width="100%"></a>
-
 </div>
 
 ## Tecnologias que uso no meu dia
