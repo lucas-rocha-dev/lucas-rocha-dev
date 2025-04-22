@@ -6,7 +6,7 @@
 ### Desenvolvedor Back-End .NET
 ## Alguns dos projetos mobile concluídos:
 <div>
-  <a href="https://play.google.com/store/apps/developer?id=HimitsuDev" target="_blank"> <img src="new_projetos.png" alt="Futebol Placar 1" width="100%"></a>
+  <img src="new_projetos.png" alt="Futebol Placar 1" width="100%">
 </div>
 
 ## Tecnologias que uso no meu dia
